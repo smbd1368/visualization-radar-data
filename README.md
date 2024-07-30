@@ -1,4 +1,4 @@
-Here's a README template for your GitHub repository that outlines how to visualize radar data from the IWR1843 using Jupyter Notebook in Python. This README provides an overview of the project, installation instructions, usage examples, and additional information.
+How to visualize radar data from the IWR1843 using Jupyter Notebook in Python. This README provides an overview of the project, installation instructions, usage examples, and additional information.
 
 ```markdown
 # IWR1843 Radar Data Visualization
