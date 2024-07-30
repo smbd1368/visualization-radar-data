@@ -3,15 +3,6 @@ How to visualize radar data from the IWR1843 using Jupyter Notebook in Python. T
 ```markdown
 # IWR1843 Radar Data Visualization
 
-This project provides a method for visualizing radar data collected from the IWR1843 radar sensor using Python and Jupyter Notebook. The data is processed and visualized in both 3D and 2D formats, allowing for an intuitive understanding of the radar's detection capabilities over time.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Format](#data-format)
-- [Visualizations](#visualizations)
-- [License](#license)
 
 ## Installation
 
@@ -77,10 +68,4 @@ The project includes two types of visualizations:
 This project is licensed under the MIT License. 
 ---
 
-Feel free to modify the README to suit your project's specifics, including adding actual image paths for visualizations, updating the repository link, and adjusting any other sections as necessary.
 ```
-
-### Notes:
-- **Replace Placeholder Links**: Make sure to replace `https://github.com/smbd1368/visualization-radar-data.git` with your actual repository URL and update the paths for images in the visualizations section.
-- **Add Images**: If you have images of the visualizations, you can add them to your repository and link them in the README.
-- **Adjust Content**: Feel free to adjust the content based on additional features or specific instructions related to your project.
